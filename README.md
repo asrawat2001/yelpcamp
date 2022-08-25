@@ -7,7 +7,7 @@ Designed and implemented Yelp Camp(a Yelp style website for campsites) that supp
  
 Home Page
 
-![image](https://user-images.githubusercontent.com/73538719/114265389-21691600-9a23-11eb-8841-568a46e16284.png)
+![image](https://drive.google.com/file/d/1se0QKAOVTfdM4Y0EnKg406lyeBGgy_0r/view?usp=sharing)
 
 
 Login Page
