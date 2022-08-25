@@ -37,7 +37,7 @@ Add New Campground
 
 Edit and Delete a Campground
 
-![image](https://user-images.githubusercontent.com/83879728/186591034-8e8a329d-caf3-4534-b5cc-67e78d96c491.png)
+![image](https://user-images.githubusercontent.com/83879728/186591972-817e9784-3608-4ee7-88a2-22077e8f5f87.png)
 
 
 Sumbitting a Review
