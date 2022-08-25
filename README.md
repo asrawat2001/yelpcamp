@@ -17,7 +17,7 @@ Login Page
 
 Register Page
 
-![image](https://user-images.githubusercontent.com/73538719/114265389-21691600-9a23-11eb-8841-568a46e16284.png)
+![image](https://user-images.githubusercontent.com/83879728/186592427-09e3089b-e485-4a4f-a8a7-f6a1d8290909.png)
 
 
 All Campgrounds
