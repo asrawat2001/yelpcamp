@@ -3,6 +3,8 @@ Designed and implemented Yelp Camp(a Yelp style website for campsites) that supp
 <div align="center">
   <h1>🏕️ YelpCamp 🌲</h1>
 </div>
+ 
+ 
 Home Page
 
 ![image](https://user-images.githubusercontent.com/73538719/114265389-21691600-9a23-11eb-8841-568a46e16284.png)
@@ -21,6 +23,7 @@ Register Page
 All Campgrounds
 
 ![image](https://user-images.githubusercontent.com/73538719/114261441-2ae78380-9a0d-11eb-9b2d-1c69cccd7290.png)
+
 
 Show Page
 
