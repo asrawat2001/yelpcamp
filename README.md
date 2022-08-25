@@ -22,7 +22,7 @@ Register Page
 
 All Campgrounds
 
-![image](https://user-images.githubusercontent.com/73538719/114261441-2ae78380-9a0d-11eb-9b2d-1c69cccd7290.png)
+![image](https://user-images.githubusercontent.com/83879728/186592967-b3d6a0ea-e909-47bf-8d0a-02230acd62bd.png)
 
 
 Show Page
