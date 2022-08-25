@@ -12,7 +12,7 @@ Home Page
 
 Login Page
 
-![image](https://user-images.githubusercontent.com/73538719/114261441-2ae78380-9a0d-11eb-9b2d-1c69cccd7290.png)
+![image](https://user-images.githubusercontent.com/83879728/186590895-e095d050-72fd-4dcb-9ffc-eff1671142f6.png)
 
 
 Register Page
@@ -27,17 +27,17 @@ All Campgrounds
 
 Show Page
 
-![image](https://user-images.githubusercontent.com/73538719/114265389-21691600-9a23-11eb-8841-568a46e16284.png)
+![image](https://github.com/asrawat2001/yelpcamp/issues/1)
 
 
 Add New Campground
 
-![image](https://user-images.githubusercontent.com/73538719/114261441-2ae78380-9a0d-11eb-9b2d-1c69cccd7290.png)
+![image](https://user-images.githubusercontent.com/83879728/186590914-c51d707d-fb68-4ee0-8c90-948e2954c8e3.png)
 
 
 Edit and Delete a Campground
 
-![image](https://user-images.githubusercontent.com/73538719/114265389-21691600-9a23-11eb-8841-568a46e16284.png)
+![image](https://user-images.githubusercontent.com/83879728/186591034-8e8a329d-caf3-4534-b5cc-67e78d96c491.png)
 
 
 Sumbitting a Review
