@@ -27,7 +27,7 @@ All Campgrounds
 
 Show Page
 
-![image](https://github.com/asrawat2001/yelpcamp/issues/1)
+![image](https://user-images.githubusercontent.com/83879728/186591053-48cdc5e8-1934-431e-baf2-47b7fb0e30c1.png)
 
 
 Add New Campground
