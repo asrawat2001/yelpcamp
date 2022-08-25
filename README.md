@@ -42,7 +42,7 @@ Edit and Delete a Campground
 
 Sumbitting a Review
 
-![image](https://user-images.githubusercontent.com/73538719/114261441-2ae78380-9a0d-11eb-9b2d-1c69cccd7290.png)
+![image](https://user-images.githubusercontent.com/83879728/186592397-d1a1afc6-2a0d-4f69-b291-8eaac16c02a0.png)
 
 
 
