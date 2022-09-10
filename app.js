@@ -14,7 +14,7 @@ var mongoose = require('./mongoconnection');
 const userRoutes = require('./routes/users');
 const campgroundRoutes = require('./routes/campgrounds');
 const reviewRoutes = require('./routes/reviews');
-mongoose.connect('mongodb+srv://asrawat2001:AjmerRaj@cluster0.nfumwoy.mongodb.net/?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://:@cluster0.nfumwoy.mongodb.net/?retryWrites=true&w=majority', {
     useNewUrlParser: true,
     useCreateIndex: true,
     useUnifiedTopology: true,
